@@ -55,3 +55,42 @@ The objectives of this study are:
 
 ```text
 NDBI = (SWIR - NIR) / (SWIR + NIR)
+
+## 6️⃣ Key Outputs (Map Images)
+- ✅ Built-up area map using **NDBI (2018)**
+- ✅ Built-up area map using **NDBI (2020)**
+- ✅ Built-up area map using **NDBI (2024)**
+- ✅ Final ArcGIS map showing:
+  - Guwahati boundary
+  - Settlement expansion in **red**
+  - Built-up area statistics (**km² and %**)
+
+---
+
+## 7️⃣ Results & Interpretation
+- A consistent increase in built-up area was observed from **2018 to 2024**
+- Urban expansion is primarily concentrated along:
+  - Major road corridors
+  - Peripheral and peri-urban zones of Guwahati
+- The percentage of built-up land shows a clear upward trend, indicating **rapid urbanization**
+- Expansion patterns suggest **outward urban sprawl** rather than compact growth, raising sustainability concerns
+
+---
+
+## 8️⃣ What I Learned
+- Practical application of **NDBI** for urban expansion analysis
+- Handling and processing multi-temporal satellite imagery in **Google Earth Engine**
+- Integrating cloud-based remote sensing analysis with desktop GIS (**ArcGIS**)
+- Quantifying spatial change using **area and percentage statistics**
+- Communicating urban growth patterns through professional **GIS cartography**
+
+---
+
+## 9️⃣ Future Improvements
+- Use higher-resolution satellite data such as **Sentinel-2**
+- Apply **machine learning-based classification** for improved built-up area extraction
+- Integrate population density and road network datasets
+- Perform urban growth prediction using **CA-Markov or SLEUTH models**
+- Validate results using ground truth data or high-resolution imagery
+
+---
