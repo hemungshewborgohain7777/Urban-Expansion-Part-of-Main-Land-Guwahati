@@ -53,7 +53,6 @@ The objectives of this study are:
 - Selected cloud-free Landsat imagery for **2018, 2020, and 2024**
 - Computed **Normalized Difference Built-up Index (NDBI)** in GEE:
 
-```text
 NDBI = (SWIR - NIR) / (SWIR + NIR)
 
 ## 6️⃣ Key Outputs (Map Images)
